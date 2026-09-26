@@ -1,0 +1,55 @@
+name: Publish Mimo Veterinaria
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - name: Download site source
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Prepare GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Build static site
+        run: python3 -B build.py
+        env:
+          OUTPUT_DIR: dist
+          BASE_PATH: /pagina-veterinaria-dise-o-unico
+          SITE_URL: https://drcardenasenzo.github.io/pagina-veterinaria-dise-o-unico
+      - name: Add Pages marker
+        run: touch dist/.nojekyll
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

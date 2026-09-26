@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Nube",
+    "label": "Caniche",
+    "group": "perros",
+    "image": "/assets/stickers/01-caniche-nube.webp",
+    "article": "caniche",
+    "line": "Caniche crema de rulos densos, orejas largas y hocico fino."
+  },
+  {
+    "name": "Mora",
+    "label": "Gato",
+    "group": "gatos",
+    "image": "/assets/stickers/12-gato-mora.webp",
+    "article": "gato-de-interior",
+    "line": "Gata negra de pelo corto, ojos ámbar y silueta felina."
+  },
+  {
+    "name": "Lima",
+    "label": "Loro",
+    "group": "aves",
+    "image": "/assets/stickers/18-loro-lima.webp",
+    "article": "loro",
+    "line": "Loro amazónico verde con pico curvo, alas y cola definidas."
+  },
+  {
+    "name": "Milo",
+    "label": "Perro salchicha",
+    "group": "perros",
+    "image": "/assets/stickers/03-salchicha-milo.webp",
+    "article": "perro-salchicha",
+    "line": "Salchicha de cuerpo largo y bajo, orejas caídas y pelo corto."
+  },
+  {
+    "name": "Pompón",
+    "label": "Conejo",
+    "group": "pequenos",
+    "image": "/assets/stickers/15-conejo-pompon.webp",
+    "article": "conejo",
+    "line": "Conejo doméstico crema de orejas largas y pelo suave."
+  },
+  {
+    "name": "Uma",
+    "label": "Border collie",
+    "group": "perros",
+    "image": "/assets/stickers/28-border-collie.webp",
+    "article": "border-collie",
+    "line": "Perro pastor de manto blanco y negro, atento al movimiento."
+  },
+  {
+    "name": "Cielo",
+    "label": "Periquito",
+    "group": "aves",
+    "image": "/assets/stickers/22-periquito.webp",
+    "article": "periquito",
+    "line": "Pequeño, curioso y atento a todo lo que pasa cerca."
+  },
+  {
+    "name": "Chispa",
+    "label": "Chihuahua",
+    "group": "perros",
+    "image": "/assets/stickers/24-chihuahua.webp",
+    "article": "chihuahua",
+    "line": "Un perro pequeño con una presencia enorme en casa."
+  },
+  {
+    "name": "Kiwi",
+    "label": "Cobayo",
+    "group": "pequenos",
+    "image": "/assets/stickers/16-cobayo-kiwi.webp",
+    "article": "cobayo",
+    "line": "Cobayo tricolor de cuerpo bajo y pelaje tupido."
+  },
+  {
+    "name": "Bimba",
+    "label": "Bull terrier",
+    "group": "perros",
+    "image": "/assets/stickers/26-bull-terrier.webp",
+    "article": "bull-terrier",
+    "line": "Cabeza ovalada, orejas erguidas y juego lleno de energía."
+  },
+  {
+    "name": "Miel",
+    "label": "Golden retriever",
+    "group": "perros",
+    "image": "/assets/stickers/04-golden-miel.webp",
+    "article": "golden-retriever",
+    "line": "Golden retriever de pelo largo dorado y expresión amable."
+  },
+  {
+    "name": "Piña",
+    "label": "Ninfa",
+    "group": "aves",
+    "image": "/assets/stickers/19-ninfa-pina.webp",
+    "article": "ninfa",
+    "line": "Ninfa gris de cara amarilla, copete y mejillas naranjas."
+  },
+  {
+    "name": "Pipo",
+    "label": "Pug",
+    "group": "perros",
+    "image": "/assets/stickers/29-pug.webp",
+    "article": "pug",
+    "line": "Compañero compacto, de cara corta y pliegues que piden observación."
+  },
+  {
+    "name": "Lento",
+    "label": "Tortuga",
+    "group": "pequenos",
+    "image": "/assets/stickers/20-tortuga-lento.webp",
+    "article": "tortuga",
+    "line": "Tortuga terrestre de caparazón abovedado y patas escamosas."
+  },
+  {
+    "name": "Faro",
+    "label": "Galgo español",
+    "group": "perros",
+    "image": "/assets/stickers/34-galgo.webp",
+    "article": "galgo-espanol",
+    "line": "Lebrel de cuerpo fino que combina velocidad y calma en casa."
+  },
+  {
+    "name": "Sol",
+    "label": "Canario",
+    "group": "aves",
+    "image": "/assets/stickers/23-canario.webp",
+    "article": "canario",
+    "line": "Un compañero delicado que necesita un ambiente tranquilo."
+  },
+  {
+    "name": "Mochi",
+    "label": "Shar-pei",
+    "group": "perros",
+    "image": "/assets/stickers/38-shar-pei.webp",
+    "article": "shar-pei",
+    "line": "Pliegues y manto áspero: ojos, piel y comodidad merecen atención."
+  },
+  {
+    "name": "Coco",
+    "label": "Corgi",
+    "group": "perros",
+    "image": "/assets/stickers/02-corgi-coco.webp",
+    "article": "corgi",
+    "line": "Corgi galés de patas cortas, orejas erguidas y pelaje rojizo."
+  },
+  {
+    "name": "Maní",
+    "label": "Hámster",
+    "group": "pequenos",
+    "image": "/assets/stickers/17-hamster-mani.webp",
+    "article": "hamster",
+    "line": "Hámster sirio dorado de mejillas amplias y patitas pequeñas."
+  },
+  {
+    "name": "Lola",
+    "label": "Bulldog francés",
+    "group": "perros",
+    "image": "/assets/stickers/05-bulldog-lola.webp",
+    "article": "bulldog-frances",
+    "line": "Bulldog francés de hocico corto, pecho ancho y orejas rectas."
+  },
+  {
+    "name": "Lilo",
+    "label": "Bichón frisé",
+    "group": "perros",
+    "image": "/assets/stickers/37-bichon-frise.webp",
+    "article": "bichon-frise",
+    "line": "Pequeño de rulos blancos, con piel y pelo que requieren constancia."
+  },
+  {
+    "name": "Brisa",
+    "label": "Pastor belga malinois",
+    "group": "perros",
+    "image": "/assets/stickers/32-malinois.webp",
+    "article": "malinois",
+    "line": "Ágil, alerta y dispuesto a aprender sin perder el descanso."
+  },
+  {
+    "name": "Pipa",
+    "label": "Dálmata",
+    "group": "perros",
+    "image": "/assets/stickers/06-dalmata-pipa.webp",
+    "article": "dalmata",
+    "line": "Dálmata de cuerpo atlético y manchas negras irregulares."
+  },
+  {
+    "name": "Tao",
+    "label": "Pequinés",
+    "group": "perros",
+    "image": "/assets/stickers/27-pequines.webp",
+    "article": "pequines",
+    "line": "Pequeño, de pelo largo y cara corta: respirar cómodo también importa."
+  },
+  {
+    "name": "Nala",
+    "label": "Husky",
+    "group": "perros",
+    "image": "/assets/stickers/07-husky-nala.webp",
+    "article": "husky-siberiano",
+    "line": "Husky siberiano de máscara gris y blanca y ojos celestes."
+  },
+  {
+    "name": "Tango",
+    "label": "Bóxer",
+    "group": "perros",
+    "image": "/assets/stickers/36-boxer.webp",
+    "article": "boxer",
+    "line": "Perro expresivo y juguetón, que necesita pausas además de actividad."
+  },
+  {
+    "name": "Kiko",
+    "label": "Shiba inu",
+    "group": "perros",
+    "image": "/assets/stickers/08-shiba-kiko.webp",
+    "article": "shiba-inu",
+    "line": "Shiba inu rojizo de orejas triangulares y cola enroscada."
+  },
+  {
+    "name": "Gael",
+    "label": "Pastor alemán",
+    "group": "perros",
+    "image": "/assets/stickers/33-pastor-aleman.webp",
+    "article": "pastor-aleman",
+    "line": "Pastor de manto negro y fuego, compañero de movimiento y aprendizaje."
+  },
+  {
+    "name": "Tito",
+    "label": "Beagle",
+    "group": "perros",
+    "image": "/assets/stickers/09-beagle-tito.webp",
+    "article": "beagle",
+    "line": "Beagle tricolor de orejas largas y pecho blanco."
+  },
+  {
+    "name": "Rocco",
+    "label": "American Bully",
+    "group": "perros",
+    "image": "/assets/stickers/31-american-bully.webp",
+    "article": "american-bully",
+    "line": "Fuerte y compacto, con necesidades propias más allá de su silueta."
+  },
+  {
+    "name": "Bruno",
+    "label": "Pitbull",
+    "group": "perros",
+    "image": "/assets/stickers/10-pitbull-bruno.webp",
+    "article": "pitbull",
+    "line": "Pitbull de estructura musculosa, orejas naturales y pecho blanco."
+  },
+  {
+    "name": "Dante",
+    "label": "Dóberman",
+    "group": "perros",
+    "image": "/assets/stickers/35-doberman.webp",
+    "article": "doberman",
+    "line": "Atlético y atento, con orejas naturales y una rutina para su bienestar."
+  },
+  {
+    "name": "Beto",
+    "label": "Bulldog inglés",
+    "group": "perros",
+    "image": "/assets/stickers/30-bulldog-ingles.webp",
+    "article": "bulldog-ingles",
+    "line": "Cuerpo robusto, cara corta y una rutina que cuide su respiración."
+  },
+  {
+    "name": "Rulo",
+    "label": "Perro mestizo",
+    "group": "perros",
+    "image": "/assets/stickers/21-perro-mestizo.webp",
+    "article": "perro-mestizo",
+    "line": "Único en su mezcla, con rutinas de cuidado hechas a su medida."
+  }
+]
